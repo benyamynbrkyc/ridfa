@@ -1158,6 +1158,7 @@ Responsive
   .site-menu {
     padding-top: 80px;
   }
+
   .main-sidebar {
     position: relative;
     width: 100%;
@@ -1211,6 +1212,10 @@ Responsive
   .site-logo {
     margin-bottom: 50px;
   }
+  .site-logo img {
+    width: 100%;
+    height: auto;
+  }
   .site-logo h2 {
     font-size: 70px;
     line-height: 70px;
@@ -1245,7 +1250,7 @@ Responsive
     height: auto;
   }
   .main-sidebar .mb-warp {
-    padding: 100px 15px;
+    padding: 10px 10px;
     max-width: 100%;
     margin: 0 auto;
   }
@@ -1331,8 +1336,8 @@ Responsive
     display: none;
   }
   .site-menu li a {
-    font-size: 18px;
-    margin-bottom: 5px;
+    font-size: 30px;
+    margin-bottom: 15px;
   }
   .about-info h2 {
     font-size: 34px;
