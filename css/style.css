@@ -1335,6 +1335,9 @@ Responsive
   .header-social {
     display: none;
   }
+  #header-social-contact {
+    display: block !important;
+  }
   .site-menu li a {
     font-size: 30px;
     margin-bottom: 15px;
